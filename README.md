@@ -1,4 +1,4 @@
-                                                        Hi, there! 👋
+                                                        Hi, there! I'm Bestride 👋
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
     <a href="https://discord.com/users/1034151261320249515" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/1034151261320249515"></a>
@@ -18,8 +18,6 @@ def  __social__(self):
  ┌──(bestride@root)-[~/]
  └─$
 ```
-<p align="center"><img src="https://count.getloli.com/get/@:bestride" alt=":bestride" /></p>
-
 <h3>Languages:</h3>
 
 <p align="left"> 
@@ -38,6 +36,9 @@ def  __social__(self):
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="43" heigth="43" /></a>
+  
+  
+<p align="center"><img src="https://count.getloli.com/get/@:bestride" alt=":bestride" /></p>
 
  
 
