@@ -1,4 +1,4 @@
-Hi, there! I'm Bestride 👋
+                                                        Hi, there! I'm Bestride 👋
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <div align="center">
     <a href="https://discord.com/users/1034151261320249515" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/1034151261320249515"></a>
